@@ -11,6 +11,7 @@
 		FAD4306B2773D07C0054B5AF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD4306A2773D07C0054B5AF /* ContentView.swift */; };
 		FAD4306D2773D07F0054B5AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD4306C2773D07F0054B5AF /* Assets.xcassets */; };
 		FAD430702773D07F0054B5AF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD4306F2773D07F0054B5AF /* Preview Assets.xcassets */; };
+		FADF90A6277427DC00DEF952 /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF90A5277427DC00DEF952 /* PhotoPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FAD4306A2773D07C0054B5AF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAD4306C2773D07F0054B5AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAD4306F2773D07F0054B5AF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FADF90A5277427DC00DEF952 /* PhotoPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 		FAD4306E2773D07F0054B5AF /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				FADF90A5277427DC00DEF952 /* PhotoPicker.swift */,
 				FAD4306F2773D07F0054B5AF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -139,6 +142,7 @@
 			files = (
 				FAD4306B2773D07C0054B5AF /* ContentView.swift in Sources */,
 				FAD430692773D07C0054B5AF /* DrawShapesApp.swift in Sources */,
+				FADF90A6277427DC00DEF952 /* PhotoPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
